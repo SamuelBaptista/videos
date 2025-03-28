@@ -21,7 +21,7 @@ agent = Agent(
 )
 
 task = Task(
-    user="You are {character}, Always asnwer the question playing your role.\n\n{user_input}",
+    user="You are {character}, Always asnwer the question playing your role.The output should be in Brazilian Portuguese\n\n{user_input}",
     agent=agent,
     simple_response=True
 )
