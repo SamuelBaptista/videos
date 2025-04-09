@@ -8,7 +8,7 @@ def calculate_bmi(weight_kg: float, height_m: float) -> float:
     return weight_kg / (height_m**2)
 
 # [protocol]://[host]/[path]
-@mcp.resource("json://profile/{user_name}")
+@mcp.resource("file://profile/{user_name}")
 def get_user_profile(user_name: str) -> str:
     """Return the weight_kg and height_m of a user"""
 
