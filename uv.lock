@@ -1757,7 +1757,7 @@ wheels = [
 
 [[package]]
 name = "repenseai"
-version = "4.0.11"
+version = "4.0.13"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "anthropic" },
@@ -1780,9 +1780,9 @@ dependencies = [
     { name = "together" },
     { name = "unidecode" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/2f/8b/aaed619d71e10a6a89f7fe050a30b191d3a8c5d07f0ba3fe0eb3391e9e14/repenseai-4.0.11.tar.gz", hash = "sha256:6228904357d13b05bf57dac795b56f5e47ce44f20f43947d3401dba534333a6e", size = 49325 }
+sdist = { url = "https://files.pythonhosted.org/packages/90/d5/d13e408b8121bfca5619dac83151c19025ff10971f0bf6a7f7038f9c7a04/repenseai-4.0.13.tar.gz", hash = "sha256:dcbe43916c1375abdb8c08660188e9c8f81f6d881423bb123fa43e6b9c29f2a0", size = 49320 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/6a/0e/0e2c554f35da4a9c9270e070020e1d4ad05c06b5a0d02f2f14507b6136a2/repenseai-4.0.11-py3-none-any.whl", hash = "sha256:93db7e260897301ef031534d74811627eb226eaebc519ceef443c50a2f4ebbeb", size = 70538 },
+    { url = "https://files.pythonhosted.org/packages/ec/18/dccc06e96d6b7712bfbedae79f624ea88065b24f4f070b0bf1615bf8061e/repenseai-4.0.13-py3-none-any.whl", hash = "sha256:d886ffc9c1e55af5f1f5b07656a76d211002b60ba5d7ef5192251fbacf1bf761", size = 70565 },
 ]
 
 [[package]]
@@ -2309,7 +2309,7 @@ requires-dist = [
     { name = "mcp", extras = ["cli"], specifier = ">=1.5.0" },
     { name = "numpy", specifier = ">=2.2.3" },
     { name = "openai", specifier = ">=1.64.0" },
-    { name = "repenseai", specifier = "==4.0.11" },
+    { name = "repenseai", specifier = "==4.0.13" },
     { name = "streamlit", specifier = ">=1.44.1" },
 ]
 

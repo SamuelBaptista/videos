@@ -10,6 +10,6 @@ dependencies = [
     "mcp[cli]>=1.5.0",
     "numpy>=2.2.3",
     "openai>=1.64.0",
-    "repenseai==4.0.11",
+    "repenseai==4.0.13",
     "streamlit>=1.44.1",
 ]
