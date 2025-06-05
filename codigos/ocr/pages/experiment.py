@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Constants
-RESULTS_PATH = "data/ocr_results.csv"
+RESULTS_PATH = "codigos/ocr/data/ocr_results.csv"
 
 # Initialize session state
 if "ocr_responses" not in st.session_state:

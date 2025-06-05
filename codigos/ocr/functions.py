@@ -186,11 +186,11 @@ def classify_image(image: Image.Image) -> list[str]:
         return ["none"]
 
 
-def mistral_ocr(image: Image.Image):
+def mistral_ocr(image: Image.Image, model="mistral-ocr-2503"):
     """Process image with Mistral OCR."""
     image_b64 = image_to_base64(image)
     ocr_response = MISTRAL_CLIENT.ocr.process(
-        model="mistral-ocr-2503",
+        model=model,
         include_image_base64=True,
         document={
             "type": "image_url",
