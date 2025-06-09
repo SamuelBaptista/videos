@@ -73,7 +73,7 @@ jupyter notebook [nome_do_notebook].ipynb
 
 - **Canal no YouTube**: [@repenseai](https://youtube.com/@repenseai)
 - **Website**: [repense.ai](https://repense.ai)
-- **Email**: suporte@repenseai.com
+- **Email**: suporte@repense.ai
 
 ## 📄 Licença
 
