@@ -38,6 +38,8 @@ uv sync
 
 | Título | Descrição | Youtube |
 |--------|-----------|-------------------|
+| **OCR** |  Aprenda as técnicas mais atuais para extrair dados de documentos | [vídeo](https://youtu.be/3kgyjfBlB1I) |
+| **Prompt Engineering** | Aprenda a técnica mais importante do momento para se trabalhar com IA | [vídeo](https://youtu.be/LigwTeXM8Tc) |
 | **Automatize seu atendimento com IA** | Aprenda a criar sistemas de atendimento automatizado | [vídeo](https://www.youtube.com/watch?v=CDFp9gKyu9E) |
 | **Conheça o nosso novo estúdio de imagens** | Tour pelo novo ambiente de criação de conteúdo | [vídeo](https://www.youtube.com/watch?v=cu8IvnxHlWE) |
 | **IA te ajudando na sua empresa (QUASE) de graça!** | Soluções de IA acessíveis para negócios | [vídeo](https://www.youtube.com/watch?v=nHdYOgaHMj0) |
@@ -70,7 +72,7 @@ jupyter notebook [nome_do_notebook].ipynb
 ## 🤝 Comunidade e Suporte
 
 - **Canal no YouTube**: [@repenseai](https://youtube.com/@repenseai)
-- **Website**: [repenseai.com](https://repenseai.com)
+- **Website**: [repense.ai](https://repense.ai)
 - **Email**: suporte@repenseai.com
 
 ## 📄 Licença
